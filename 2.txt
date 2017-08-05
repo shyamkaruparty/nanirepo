@@ -1,4 +1,4 @@
 hello i am two.
-welcome to git
+welcome
 practice git
 hello user
